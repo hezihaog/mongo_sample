@@ -1,0 +1,9 @@
+server:
+  port: 9007
+spring:
+  application:
+    name: tensquare-article
+  data:
+    mongodb:
+      host: 127.0.0.1
+      database: recruitdb
